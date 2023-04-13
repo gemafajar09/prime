@@ -1,0 +1,20 @@
+{
+    "URL_SERVER": "http://185.111.159.158:30120",
+    "SERVER_NAME": "PRIME CITY",
+    "SERVER_LOGO": "",
+    "EMBED_COLOR": "#fff",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "MTA5NDYyMzAzMzI3NDE0MjcyMQ.GQA6PY.f_Z5SXmYltED-x1uOBipN42qy5JSiZm7QP3YJM",
+    "CHANNEL_ID": "1087137520183152713",
+    "MESSAGE_ID": "",
+    "SUGGESTION_CHANNEL": "",
+    "BUG_CHANNEL": "",
+    "BUG_LOG_CHANNEL": "",
+    "LOG_CHANNEL": "",
+    "DEBUG": false,
+    "WEBSITE_URL": "",
+    "CONNECT_URL": "fivem://connect/cfx.re/join/bgrojl",
+    "CFX_URL": "https://status.cfx.re/",
+    "RESTART_TIMES": "19:00",
+    "SHOW_PLAYERS": true
+  }
